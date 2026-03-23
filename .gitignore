@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+
+# Veritabanı
+*.db
+*.db-journal
+*.db-wal
+
+# Müzik dosyaları (kullanıcı yüklemeleri)
+music/*
+!music/.gitkeep
+
+# mpv
+/tmp/sahilmuzik_*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
