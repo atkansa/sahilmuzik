@@ -103,3 +103,4 @@ sahilmuzik/
 └── templates/
     └── index.html      # Ana sayfa
 ```
+![Demo](./demo_recording.gif)
